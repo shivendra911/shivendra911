@@ -120,7 +120,7 @@ I have **recently started learning System Design** and am actively building a st
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivenda911?theme=dark&font=Roboto&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/shivendrap09?theme=dark&font=Roboto&ext=contest" />
 </p>
 
 ---
@@ -145,7 +145,7 @@ I have **recently started learning System Design** and am actively building a st
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1ZFAPv5P_IOnago_rmhpa1WZ5BjZ7EMBU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
   </a>
 </p>
