@@ -47,4 +47,4 @@ Machine Learning • Computer Vision • Backend Development • Linux • Syste
   <a href="https://linkedin.com/in/shivendra--pratap">LinkedIn</a> •
   <a href="mailto:shivendrapratapsp3@gmail.com">Email</a>
 </p>
-> build • learn • iterate
+
