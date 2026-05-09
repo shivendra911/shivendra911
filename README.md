@@ -28,15 +28,12 @@
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,bash&theme=dark" />
-Python • C++ • Java • JavaScript • TypeScript • Bash • SQL
 
 **Frameworks & Technologies**  
 <img src="https://skillicons.dev/icons?i=flask,pytorch,tensorflow,nodejs&theme=dark" />
-PyTorch • TensorFlow • Flask • OpenCV • NumPy • Pandas • Scikit-learn
 
 **Tools & Platforms**  
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,kubernetes,mysql,vscode&theme=dark" />
-Linux • Git • GitHub • Docker • Kubernetes • AWS • MySQL • VS Code • Postman
 
 **Focus Areas**  
 Machine Learning • Computer Vision • Backend Development • Linux • System Design
