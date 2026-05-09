@@ -27,10 +27,10 @@
 ## Technical Skills
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,cpp,java,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash&theme=dark" alt="Languages" />
 
 **Tools & Technologies**  
-<img src="https://skillicons.dev/icons?i=linux,git,flask,pytorch,tensorflow,mysql&theme=dark" alt="Tools and Technologies" />
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,flask,pytorch,tensorflow,linux,git&theme=dark" alt="Tools and Technologies" />
 
 **Interests**  
 Machine Learning * Computer Vision * Backend Development * System Design
